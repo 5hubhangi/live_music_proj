@@ -1,3 +1,3 @@
 # Weather-App
 
-link -> https://Shubhangi22.github.io/Weather-App/
+link -> https://5hubhangi.github.io/weather_proj/
